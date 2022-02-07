@@ -42,6 +42,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#f9f9",
     borderRadius: 10,
     overflow: "hidden",
+    marginVertical: 10,
   },
   mealRow: {
     flexDirection: "row",
